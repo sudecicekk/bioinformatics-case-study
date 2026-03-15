@@ -1,0 +1,12 @@
+# Data files (Do not upload large sequencing data)
+*.fastq.gz
+*.fastq
+*.csv
+
+# Nextflow logs and work directories
+.nextflow/
+work/
+.nextflow.log*
+
+# Python cache
+__pycache__/

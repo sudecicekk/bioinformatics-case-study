@@ -1,0 +1,4 @@
+--- Summary Statistics ---
+           length  gc_content  mean_quality
+mean  1038.235363   53.000152     17.896345
+50%    547.000000   53.530000     17.310000
